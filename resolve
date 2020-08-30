@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registration Form</title>
+	<style>
+	ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 10px;
+  background-color: #333;
+}
+li a:hover {
+  background-color: #111;
+}
+.tab2 { 
+            tab-size: 4; 
+        } 
+</style>
+</head>
+  <title>
+    Details
+  </title>
+
+<body>
+  <a href="https://www.iiit.ac.in/" target="_blank" class="scrollto"><img src="iiit-new.png" style="width:10%" alt="iiit" align="left"> </a>
+    <a href="https://serc.iiit.ac.in/rdip" target="_blank" class="scrollto"> <h1 style="font-size:180%"; color="blue"; align="right">RDIP</h1></a><br></br>
+    
+    <ul>
+  <li><a href="display.html">Home</a></li>
+  <li><a href="registration form.html">Registration Form</a></li>
+<!--   <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li> -->
+</ul><br>
+<pre class="tab2">First Name: John<br></pre>
+<pre class="tab2">E-mail    : xyz@avc.com</pre>
+<pre class="tab2">Phone No  : 9*******3</pre>
+<pre class="tab2">Gender    : Male</pre>
+<pre class="tab2">Reason    : HTML, CSS, JavaScript</pre>
+<pre class="tab2">College   : Name of College</pre>
+
+
+</body>
+</html>
